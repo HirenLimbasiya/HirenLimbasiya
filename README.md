@@ -9,13 +9,13 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp; I'm a **Full Stack Developer (Frontend Focused)** at **Zino Technologies**.\
-💻 &nbsp;I'm currently building a comprehensive **Ticket Management System** and low-code visual platforms.\
-🎓 &nbsp;I graduated from **S.S.A.S.I.T, Surat** (B.E.) and completed Full Stack dev at **Newton School**.\
-🚀 &nbsp;I specialize in building **Figma-like visual editors** and **AI-powered automation flows**.\
+💻 &nbsp;I engineer complex **Low-Code/No-Code ecosystems** that empower users to build apps visually.\
+🚀 &nbsp;I specialize in building **Figma-like visual editors**, **Drag-and-Drop workflows**, and **AI-automation**.\
 🌱 &nbsp;I'm on track for learning more about **System Design** and **Advanced Backend Architecture**.\
 💬 &nbsp;Feel free to reach out to me for discussions on React internals, Golang, or AI integration!\
 ✉️ &nbsp;You can email me at [limbasiyahiren187@gmail.com](mailto:limbasiyahiren187@gmail.com). I'll try to respond as soon as possible!\
-📄 &nbsp;You can check my [LinkedIn](https://www.linkedin.com/in/hirenlimbasiya/) for more details about work experience.
+📄 &nbsp;You can check my [LinkedIn](https://www.linkedin.com/in/hirenlimbasiya/) for more details about work experience.\
+⚡ &nbsp;**Fun fact:** I can center a `div` on the first try, but `z-index` still scares me.
 
 ### 🛠 &nbsp;Tech Stack
 
