@@ -1,85 +1,41 @@
-<div align="center">
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi%20I'm%20Hiren%20Limbasiya&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20(Frontend%20Focused)&descAlignY=51&descAlign=62" width="100%"/>
+![BannerGIF](https://user-images.githubusercontent.com/39513876/112361914-e021f800-8cf9-11eb-9aac-a2b675065afc.gif)
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=23F7DD&center=true&vCenter=true&width=435&lines=I+build+Figma-like+visual+editors;I+develop+scalable+Golang+backends;Currently+building+Ticket+Management" alt="Typing SVG" />
-  </a>
+### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Hello there! I'm Hiren.
 
-  <br/>
+![profile count](https://komarev.com/ghpvc/?username=HirenLimbasiya&color=red)&nbsp;
+[![GitHub HirenLimbasiya](https://img.shields.io/github/followers/HirenLimbasiya?label=follow&style=social)](https://github.com/HirenLimbasiya)&nbsp;
+![build: passing](https://img.shields.io/badge/build-passing-success)
 
-  <a href="https://www.linkedin.com/in/hirenlimbasiya/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:limbasiyahiren187@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.hirenlimbasiya.com/">
-    <img src="https://img.shields.io/badge/Portfolio-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  </a>
+### 👨🏻‍💻 &nbsp;About Me
 
-</div>
+💡 &nbsp; [cite_start]I'm a **Full Stack Developer (Frontend Focused)** at **Zino Technologies**[cite: 2, 9].\
+[cite_start]💻 &nbsp;I'm currently building a comprehensive **Ticket Management System** and low-code visual platforms[cite: 13].\
+[cite_start]🎓 &nbsp;I graduated from **S.S.A.S.I.T, Surat** (B.E.) and completed Full Stack dev at **Newton School**[cite: 38, 40].\
+[cite_start]🚀 &nbsp;I specialize in building **Figma-like visual editors** and **AI-powered automation flows**[cite: 8, 17].\
+🌱 &nbsp;I'm on track for learning more about **System Design** and **Advanced Backend Architecture**.\
+💬 &nbsp;Feel free to reach out to me for discussions on React internals, Golang, or AI integration!\
+✉️ &nbsp;You can email me at [limbasiyahiren187@gmail.com](mailto:limbasiyahiren187@gmail.com). [cite_start]I'll try to respond as soon as possible! [cite: 3]\
+[cite_start]📄 &nbsp;You can check my [LinkedIn](https://www.linkedin.com/in/hirenlimbasiya/) for more details about work experience. [cite: 3]
 
-<hr/>
+### 🛠 &nbsp;Tech Stack
 
-### 👨‍💻 Professional Experience
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react&logoColor=61DAFB)&nbsp;
+![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js&logoColor=white)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript&logoColor=3178C6)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux&logoColor=764ABC)&nbsp;
+![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-05122A?style=flat&logo=tailwind-css&logoColor=38B2AC)&nbsp;
+![Golang](https://img.shields.io/badge/-Golang-05122A?style=flat&logo=go&logoColor=00ADD8)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb&logoColor=47A248)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=316192)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker&logoColor=2496ED)&nbsp;
+![OpenAI](https://img.shields.io/badge/-OpenAI-05122A?style=flat&logo=openai&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
-**Software Developer @ Zino Technologies**
-*Specializing in complex frontend architecture and AI-driven platforms.*
+### 📫 &nbsp; How to reach me:
 
-- 🎨 **Figma-Like Visual Editor:** Built a layout editor using **React & DOM events** supporting nesting, resizing, and alignment without external libraries.
-- 🛠️ **Low-Code Builder:** Created a platform for building workflows, forms, and kanban boards with drag-and-drop modules.
-- 🤖 **AI Integration:** Implemented **OpenAI GPT** workflows to generate full applications from user prompts in <15 minutes.
-- ⚡ **Performance Engineering:** Applied virtualization, memoization, and throttling to ensure smooth UI interactions for large layouts.
-- 🔙 **Golang Backend:** Built modular CRUD pipelines with runtime **ETL processing** and Role-Based Access Control (RBAC).
-
-<br/>
-
-### 🛠️ Tech Stack
-
-<div align="center">
-  
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  
-  <br/>
-  
-  <img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Fiber-00ACD7?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  
-  <br/>
-  
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/WebSockets-000000?style=for-the-badge&logo=socket.io&logoColor=white" />
-
-</div>
-
-<br/>
-
-### 🚀 Projects & Activity
-
-#### 🏗️ Currently Building: **Ticket Management System**
-Developing a comprehensive ticket management solution focusing on scalable backend architecture and intuitive UI.
-
-#### 💬 Community Forum
-A real-time chat & discussion platform.
-- **Stack:** Golang (Fiber), WebSockets, Next.js, MongoDB.
-- **Features:** Live rooms, threads, and modular backend architecture.
-
-#### 🏆 FindSportEvent
-Sports event management platform.
-- **Stack:** React, Node.js, Express, MongoDB.
-- **Features:** Event creation, listing, and participant registration.
-
-<br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=HirenLimbasiya&style=flat-square&color=blueviolet" alt="Profile Views" />
-</div>
+<a href="https://www.linkedin.com/in/hirenlimbasiya/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
+<a href="mailto:limbasiyahiren187@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
+<a href="https://www.hirenlimbasiya.com/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-20232A?style=flat&logo=react&logoColor=61DAFB" /></a>
