@@ -25,13 +25,13 @@
 ### 👨‍💻 Professional Experience
 
 **Software Developer @ Zino Technologies**
-*Building advanced visual tools and AI-driven platforms.*
+*Specializing in complex frontend architecture and AI-driven platforms.*
 
-- [cite_start]🎨 **Figma-Like Visual Editor:** Built a layout editor using **React & DOM events** supporting nesting, resizing, and alignment without external libraries.
-- [cite_start]🛠️ **Low-Code Builder:** Created a platform for building workflows, forms, and kanban boards with drag-and-drop modules.
-- [cite_start]🤖 **AI Integration:** Implemented **OpenAI GPT** workflows to generate full applications from user prompts in <15 minutes.
-- [cite_start]⚡ **Performance Engineering:** Applied virtualization, memoization, and throttling to ensure smooth UI interactions for complex layouts.
-- [cite_start]🔙 **Golang Backend:** Built modular CRUD pipelines with runtime **ETL processing** and RBAC systems.
+- 🎨 **Figma-Like Visual Editor:** Built a layout editor using **React & DOM events** supporting nesting, resizing, and alignment without external libraries.
+- 🛠️ **Low-Code Builder:** Created a platform for building workflows, forms, and kanban boards with drag-and-drop modules.
+- 🤖 **AI Integration:** Implemented **OpenAI GPT** workflows to generate full applications from user prompts in <15 minutes.
+- ⚡ **Performance Engineering:** Applied virtualization, memoization, and throttling to ensure smooth UI interactions for large layouts.
+- 🔙 **Golang Backend:** Built modular CRUD pipelines with runtime **ETL processing** and Role-Based Access Control (RBAC).
 
 <br/>
 
@@ -65,18 +65,20 @@
 
 ### 🚀 Projects & Activity
 
-- 🔭 **Currently Working On:** A comprehensive **Ticket Management System**.
-- [cite_start]💬 **Community Forum:** A real-time chat platform using **Golang (Fiber) + WebSockets** and Next.js.
-- [cite_start]🏆 **FindSportEvent:** A sports event management platform built with the MERN stack.
+#### 🏗️ Currently Building: **Ticket Management System**
+Developing a comprehensive ticket management solution focusing on scalable backend architecture and intuitive UI.
 
-<hr/>
+#### 💬 Community Forum
+A real-time chat & discussion platform.
+- **Stack:** Golang (Fiber), WebSockets, Next.js, MongoDB.
+- **Features:** Live rooms, threads, and modular backend architecture.
 
-### 📊 GitHub Stats
+#### 🏆 FindSportEvent
+Sports event management platform.
+- **Stack:** React, Node.js, Express, MongoDB.
+- **Features:** Event creation, listing, and participant registration.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HirenLimbasiya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="stats graph"  />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HirenLimbasiya&theme=tokyonight&hide_border=true&background=0D1117" height="180" alt="streak graph"  />
-</div>
+<br/>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=HirenLimbasiya&style=flat-square&color=blueviolet" alt="Profile Views" />
