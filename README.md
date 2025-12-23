@@ -1,6 +1,6 @@
-![BannerGIF](https://user-images.githubusercontent.com/39513876/112361914-e021f800-8cf9-11eb-9aac-a2b675065afc.gif)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Hiren%20Limbasiya&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20(Frontend%20Focused)&descAlignY=55&descAlign=62)
 
-### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Hello there! I'm Hiren.
+### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='35' align="left"/> Hello there!
 
 ![profile count](https://komarev.com/ghpvc/?username=HirenLimbasiya&color=red)&nbsp;
 [![GitHub HirenLimbasiya](https://img.shields.io/github/followers/HirenLimbasiya?label=follow&style=social)](https://github.com/HirenLimbasiya)&nbsp;
@@ -8,14 +8,14 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; [cite_start]I'm a **Full Stack Developer (Frontend Focused)** at **Zino Technologies**[cite: 2, 9].\
-[cite_start]💻 &nbsp;I'm currently building a comprehensive **Ticket Management System** and low-code visual platforms[cite: 13].\
-[cite_start]🎓 &nbsp;I graduated from **S.S.A.S.I.T, Surat** (B.E.) and completed Full Stack dev at **Newton School**[cite: 38, 40].\
-[cite_start]🚀 &nbsp;I specialize in building **Figma-like visual editors** and **AI-powered automation flows**[cite: 8, 17].\
+💡 &nbsp; I'm a **Full Stack Developer (Frontend Focused)** at **Zino Technologies**.\
+💻 &nbsp;I'm currently building a comprehensive **Ticket Management System** and low-code visual platforms.\
+🎓 &nbsp;I graduated from **S.S.A.S.I.T, Surat** (B.E.) and completed Full Stack dev at **Newton School**.\
+🚀 &nbsp;I specialize in building **Figma-like visual editors** and **AI-powered automation flows**.\
 🌱 &nbsp;I'm on track for learning more about **System Design** and **Advanced Backend Architecture**.\
 💬 &nbsp;Feel free to reach out to me for discussions on React internals, Golang, or AI integration!\
-✉️ &nbsp;You can email me at [limbasiyahiren187@gmail.com](mailto:limbasiyahiren187@gmail.com). [cite_start]I'll try to respond as soon as possible! [cite: 3]\
-[cite_start]📄 &nbsp;You can check my [LinkedIn](https://www.linkedin.com/in/hirenlimbasiya/) for more details about work experience. [cite: 3]
+✉️ &nbsp;You can email me at [limbasiyahiren187@gmail.com](mailto:limbasiyahiren187@gmail.com). I'll try to respond as soon as possible!\
+📄 &nbsp;You can check my [LinkedIn](https://www.linkedin.com/in/hirenlimbasiya/) for more details about work experience.
 
 ### 🛠 &nbsp;Tech Stack
 
