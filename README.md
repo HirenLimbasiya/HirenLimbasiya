@@ -15,7 +15,7 @@
 💬 &nbsp;Feel free to reach out to me for discussions on React internals, Golang, or AI integration!\
 ✉️ &nbsp;You can email me at [limbasiyahiren187@gmail.com](mailto:limbasiyahiren187@gmail.com). I'll try to respond as soon as possible!\
 📄 &nbsp;You can check my [LinkedIn](https://www.linkedin.com/in/hirenlimbasiya/) for more details about work experience.\
-⚡ &nbsp;**Fun fact:** I can center a `div` on the first try, but `z-index` still scares me.
+⚡ &nbsp;**Fun fact:** I write thousands of lines of code just so users can drag-and-drop a single button.
 
 ### 🛠 &nbsp;Tech Stack
 
